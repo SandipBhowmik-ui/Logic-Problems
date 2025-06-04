@@ -1,0 +1,9 @@
+# Exclude object files
+*.o
+
+# Exclude executable files
+*.exe
+
+# Exclude other build artifacts
+/Debug/
+/Release/
